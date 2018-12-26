@@ -21,4 +21,13 @@ title: 자기 주도 학습
 
 # 주제 2 : 2주차 리뷰 / 나만의 챗봇 - 명세서 작성
 
-연습 2
+[이지선, https://github.com/wiahawm/Telegrame-chatbot](https://github.com/wiahawm/Telegrame-chatbot)
+
+[김훈, https://github.com/gnsl8391/Telegram-bot](https://github.com/gnsl8391/Telegram-bot)
+
+[조호근, https://github.com/ClearRoot/chatbot](https://github.com/ClearRoot/chatbot)
+
+[송건희, https://github.com/Tastera/TIL](https://github.com/Tastera/TIL)
+
+[정태준, https://github.com/TaeJuneJoung/TeleChatbot](https://github.com/TaeJuneJoung/TeleChatbot)
+
